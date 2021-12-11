@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MundumAir",
+    "slug": "MundumAir",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MundumAir"
+}
