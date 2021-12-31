@@ -5,7 +5,11 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "orientation": "portrait",
+    "android": {
+      "package": "pl.polsl.MundumAir"
+    }
   },
   "name": "MundumAir"
 }
